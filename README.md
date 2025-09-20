@@ -8,7 +8,6 @@
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
 - 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
-- 📘 Preparing for **UPSC** alongside my tech journey  
 - 💡 Passionate about **Cloud Projects, Security & Automation**  
 
 ---
