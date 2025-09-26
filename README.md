@@ -3,7 +3,7 @@
 🌍 Pune, India | 🌐 [Portfolio](https://www.koustubh18.site) | 📧 [Email](mailto:koustubhjuvekar07@gmail.com)  
 
 ---
-
+<!--
 ## 📚 Learning Resources  
 
 | Sr. No | Domain / Subject | Material Links |
@@ -16,7 +16,7 @@
 | 6 | **Terraform** | [Terraform Docs](https://developer.hashicorp.com/terraform/docs) • [Terraform Registry](https://registry.terraform.io/) |
 
 ---
-
+-->
 ## 🚀 About Me  
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
 - 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
