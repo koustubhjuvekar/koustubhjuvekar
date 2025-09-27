@@ -7,10 +7,10 @@
 <br>
 
 ## 📑 My Projects
-| Domain / Subject     | Skills / Tools       | Projects | Description |
-|-----------------------|----------------------|----------|-------------|
-| AWS Cloud Computing  | Backup Vaults        | [Cross-Region Backup Replication](https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201) | Creates automatic copies of EC2 backups in another AWS Region for disaster recovery. |
-| DevOps / Monitoring  | Kubernetes, Docker   | [DevOps Monitoring Setup](https://github.com/username/devops-monitoring) | Setup of Prometheus and Grafana dashboards to monitor container workloads. |
+| Domain / Subject     | Skills / Tools       | Projects | 
+|-----------------------|----------------------|----------|
+| AWS Cloud Computing  | Backup Vaults        | [Cross-Region Backup Replication](https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201) | 
+| DevOps / Monitoring  | Kubernetes, Docker   | [DevOps Monitoring Setup](https://github.com/username/devops-monitoring) |
 
 
 ---
