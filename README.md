@@ -22,10 +22,12 @@
   <tr>
     <td rowspan="2">1</td>   <!-- 👈 yaha rowspan -->
     <td rowspan="2">AWS Cloud Computing</td>
-    <td>Backup Vaults</td>
+    <td rowspan="2">>Backup Vaults</td>
     <td><a href="[#]https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">Enable Cross-Region Backup Replication for EC2 using AWS Backup</a></td>
   </tr>
   <tr>
+    <td>2</td>   <!-- 👈 yaha rowspan -->
+    <td>Devops</td>
     <td>Kubernetes, Docker</td>
     <td>DevOps Monitoring Setup</td>
   </tr>
