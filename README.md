@@ -29,12 +29,12 @@
        <ul>
         <li>
           <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-            <span align="center" style="text-decoration:none; color:inherit;">Cross-Region Backup Replication/span>
+            <span width="100%" style="text-decoration:none; color:inherit;">Cross-Region Backup Replication/span>
           </a>
         </li>
         <li>
           <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202">
-            <span style="text-decoration:none; color:inherit;">Another Project Subject Here</span>
+            <span width="100%" style="text-decoration:none; color:inherit;">Another Project Subject Here</span>
           </a>
         </li>
       </ul>
