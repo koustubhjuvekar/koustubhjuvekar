@@ -11,8 +11,7 @@
 </p>
 
 
-
-## 📑 My Projects
+## 📑 `My Projects`
 <table>
   <thead>
     <tr>
