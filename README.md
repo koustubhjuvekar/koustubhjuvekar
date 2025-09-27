@@ -35,8 +35,8 @@
       </td>
     </tr>
     <tr>
-  <!--    <td align="center">2</td>
-      <td align="center">DevOps / Monitoring</td> -->
+   <td align="center"></td>
+      <td align="center"></td> -->
       <td>Kubernetes, Docker</td>
       <td>
         <a href="https://github.com/username/devops-monitoring">
