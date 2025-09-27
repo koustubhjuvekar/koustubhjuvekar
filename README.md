@@ -11,7 +11,7 @@
   <thead>
     <tr>
       <th style="width:25%;">Domain / Subject</th>
-      <th style="width:25%;">Skills / Tools</th>
+      <th style="width:45%;">Skills / Tools</th>
       <th style="width:80%;">Projects</th>
     </tr>
   </thead>
