@@ -32,6 +32,11 @@
             <span style="text-decoration:none; color:inherit;">Enable Cross-Region Backup Replication for EC2 using AWS Backup</span>
           </a>
         </li>
+        <li>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202">
+            <span style="text-decoration:none; color:inherit;">Another Project Subject Here</span>
+          </a>
+        </li>
       </ul>
       </td>
     </tr>
