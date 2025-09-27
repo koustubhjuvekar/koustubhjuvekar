@@ -7,52 +7,39 @@
 <br>
 
 ## 📑 My Projects
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Projects Table</title>
-</head>
-<body>
-  <table width="100%" border="1" cellspacing="0" cellpadding="6">
-    <thead>
-      <tr>
-        <th width="5%">Sr. No.</th>
-        <th width="20%">Domain / Subject</th>
-        <th width="25%">Skills / Tools</th>
-        <th width="50%">Projects</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1.</td>
-        <td>AWS Cloud Computing</td>
-        <td>Backup Vaults</td>
-        <td>
-          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-            Enable Cross-Region Backup Replication for EC2 using AWS Backup 
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>2.</td>
-        <td>DevOps / Monitoring</td>
-        <td>Kubernetes, Docker</td>
-        <td>
-          <a href="https://github.com/username/devops-monitoring">
-            DevOps Monitoring Setup 
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</body>
-</html>
 
-
-
-
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="">Sr. No.</th>
+      <th width="20%">Domain|Subject</th>
+      <th width="25%">Skills|Tools</th>
+      <th width="100%">Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>AWS Cloud Computing</td>
+      <td>Backup Vaults</td>
+      <td>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
+          Enable Cross-Region Backup Replication for EC2 using AWS Backup
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>DevOps / Monitoring</td>
+      <td>Kubernetes, Docker</td>
+      <td>
+        <a href="https://github.com/username/devops-monitoring">
+          DevOps Monitoring Setup
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## 🚀 About Me  
