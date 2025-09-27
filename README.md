@@ -17,7 +17,7 @@
        <th width="10%" align="center">Sr. No.</th>
        <th width="20%" align="center">Domain</th>
        <th width="25%" align="center">Skills Tools</th>
-       <th width="50%" align="center">Projects</th>
+       <th width="100%" align="center">Projects</th>
      </tr>
    </thead>
   <tbody>
@@ -29,7 +29,7 @@
        <ul>
         <li>
           <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-            <span style="text-decoration:none; color:inherit;">Cross-Region Backup Replication/span>
+            <span align="center" style="text-decoration:none; color:inherit;">Cross-Region Backup Replication/span>
           </a>
         </li>
         <li>
