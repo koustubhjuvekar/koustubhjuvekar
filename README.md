@@ -1,4 +1,4 @@
-### 👋 Namaste<br>
+<h1 align="center">👋 Namaste</h1>
 
    🌍 Pune, India | 
    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
