@@ -40,8 +40,13 @@
       <td align="center"></td> 
       <td>Kubernetes, Docker</td>
       <td>
-        <a href="https://github.com/username/devops-monitoring">
-          DevOps Monitoring Setup
+       <ul>
+        <li>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
+            <span style="text-decoration:none; color:inherit;">Devops Project</span>
+          </a>
+        </li>
+      </ul>
         </a>
       </td>
     </tr>
