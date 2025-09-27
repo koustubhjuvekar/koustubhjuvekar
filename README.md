@@ -22,8 +22,8 @@
    </thead>
   <tbody>
     <tr>
-      <td rowspan="1" align="center">1</td>
-      <td align="center">AWS Cloud Computing</td>
+      <td colspan="1" align="center">1</td>
+      <td colspan="1" align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
        <ul>
