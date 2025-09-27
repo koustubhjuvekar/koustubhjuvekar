@@ -62,4 +62,6 @@
 <br>
 
 ##  🏆 Achievement 
-<img width="207" height="192" alt="ISC2" src="https://github.com/user-attachments/assets/7c7327cc-43fc-48ef-8dae-ad7c68badcfd" />
+
+<img width="108" height="104" alt="ISC2 (1)" src="https://github.com/user-attachments/assets/ac79777d-06d0-44d8-8ceb-c2ebd82887b9" />
+
