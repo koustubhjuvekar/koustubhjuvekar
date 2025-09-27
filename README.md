@@ -13,13 +13,13 @@
 
 
 ## 📑 My Projects
-<table border="1" width="100%">
+<table border="1" style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
-      <th width="10%" align="center">Sr. No.</th>
-      <th width="20%" align="center">Domain</th>
-      <th width="35%" align="center">Skills Tools</th>
-      <th width="35%" align="center">Projects</th>
+      <th style="width:10%; text-align:center;">Sr. No.</th>
+      <th style="width:10%; text-align:center;">Domain</th>
+      <th style="width:10%; text-align:center;">Skills Tools</th>
+      <th style="width:10%; text-align:center;">Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -27,7 +27,7 @@
       <td align="center">1</td>
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
-      <td>
+      <td width>
         <ul>
           <li>
             <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" style="text-decoration:none; color:inherit;">
