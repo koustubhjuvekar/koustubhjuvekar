@@ -7,6 +7,7 @@
 <br>
 
 ## 📑 My Projects
+ <markdown-accessiblity-table data-catalyst=""><table>
   <table style="width:100%; table-layout: fixed;">
   <thead>
     <tr>
@@ -38,7 +39,7 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table></markdown-accessiblity-table>
 
 
 
