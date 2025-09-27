@@ -16,8 +16,8 @@
    <thead>
      <tr>
        <th width="10%" align="center">Sr. No.</th>
-       <th width="20%" align="center">Domain | Subject</th>
-       <th width="25%" align="center">Skills | Tools</th>
+       <th width="20%" align="center">Domain</th>
+       <th width="25%" align="center">Skills Tools</th>
        <th width="50%" align="center">Projects</th>
      </tr>
    </thead>
@@ -33,8 +33,8 @@
       </td>
     </tr>
     <tr>
-      <td align="center">2</td>
-      <td align="center">DevOps / Monitoring</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td>Kubernetes, Docker</td>
       <td>
         <a href="https://github.com/username/devops-monitoring">
