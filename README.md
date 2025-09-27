@@ -2,6 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Iceland&size=50&pause=1000&color=1554F7&vCenter=true&width=1500&height=60&lines=A+passionate+AWS+Cloud+an+DevOps+Engineer+from+India!" style="max-width:100%" align="center" alt="Typing SVG" /></a>
 
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=40&pause=1000&color=1554F7&center=true&vCenter=true&width=1000&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" />
+  </a>
+</p>  
 ## 📑 My Projects
 
 <table width="1000%">
