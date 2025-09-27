@@ -7,7 +7,7 @@
 <br>
 
 ## 📑 My Projects
-<table style="width:100%; table-layout: fixed;">
+<table style="width:150%; table-layout: fixed;">
   <thead>
     <tr>
       <th style="width:25%;">Domain / Subject</th>
