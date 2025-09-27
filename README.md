@@ -10,14 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20Views&color=F75407&style=flat" alt="Profile Views" />
 </p>
 
+
+
 ## 📑 My Projects
 <table width="100%" border="1">
    <thead>
      <tr>
-       <th width="10%" align="center">Sr. No.</th>
-       <th width="20%" align="center">Domain</th>
-       <th width="35%" align="center">Skills Tools</th>
-       <th width="100%" align="center">Projects</th>
+       <th width="15%" align="center">Sr. No.</th>
+       <th width="25%" align="center">Domain</th>
+       <th width="10%" align="center">Skills Tools</th>
+       <th width="50%" align="center">Projects</th>
      </tr>
    </thead>
   <tbody>
