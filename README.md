@@ -41,7 +41,7 @@
       </td>
     </tr>
      <tr>
-      <td>3</td>
+      <td align="center">2</td>
       <td>CI/CD</td>
       <td>AWS CodePipeline, CodeBuild, CodeDeploy.</td>
       <td>
