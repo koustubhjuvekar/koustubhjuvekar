@@ -4,6 +4,9 @@
    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
    📧 <a href="mailto:koustubhjuvekar07@gmail.com">Email</a>
 
+---
+
+## 📑 My Projects
 <table>
   <thead>
     <tr>
