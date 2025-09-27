@@ -2,12 +2,6 @@
 
 <br><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Turret+Road&weight=500&size=21&pause=1000&color=FF6C00&width=750&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" /></a>
 
-   🌍 Pune, India | 
-   🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
-   📧 <a href="mailto:koustubhjuvekar07@gmail.com">Email</a>
-
-<br>
-
 ## 📑 My Projects
 
 <table width="1000%">
