@@ -22,7 +22,7 @@
    </thead>
   <tbody>
     <tr>
-      <td rowspan="2" align="center">1</td>
+      <td rowspan="1" align="center">1</td>
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
