@@ -24,7 +24,6 @@
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td rowspan="2">1</td>   <!-- 👈 yaha rowspan -->
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
@@ -46,6 +45,24 @@
   </tbody>
 </table>
 ---
+<table border="1">
+  <tr>
+    <th>Sr. No.</th>
+    <th>Domain</th>
+    <th>Skills Tools</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+    <td rowspan="2">1</td>   <!-- 👈 yaha rowspan -->
+    <td>AWS Cloud Computing</td>
+    <td>Backup Vaults</td>
+    <td><a href="#">Enable Cross-Region Backup Replication for EC2 using AWS Backup</a></td>
+  </tr>
+  <tr>
+    <td>Kubernetes, Docker</td>
+    <td>DevOps Monitoring Setup</td>
+  </tr>
+</table>
 
 ## 🚀 About Me  
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
