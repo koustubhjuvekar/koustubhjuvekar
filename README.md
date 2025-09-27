@@ -12,25 +12,22 @@
     <tr>
       <th>Sr. No.</th>
       <th>Domain / Subject</th>
-      <th>Type</th>
-      <th>Project Name</th>
-      <th>Repository Link</th>
+      <th>Skills / Tools<th>
+      <th>Projects</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
       <td>AWS Cloud Computing</td>
-      <td>Internship Project</td>
-      <td>Enable Cross-Region Backup Replication for EC2 using AWS Backup</td>
-      <td><a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">Cross-Region Backup Replication - AWS</a></td>
+      <td>Backup Vaults</td>
+      <td><a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">Enable Cross-Region Backup Replication for EC2 using AWS Backup</a></td>
     </tr>
     <tr>
       <td>2</td>
       <td>DevOps / Monitoring</td>
-      <td>Internship Project</td>
-      <td>DevOps Monitoring Setup</td>
-      <td><a href="https://github.com/username/devops-monitoring" target="_blank">Repo</a></td>
+      <td>Kubernetes, Docker</td>
+      <td><a href="https://github.com/username/devops-monitoring" target="_blank">DevOps Monitoring Setup</a></td>
     </tr>
   </tbody>
 </table>
