@@ -16,7 +16,7 @@
      <tr>
        <th width="10%" align="center">Sr. No.</th>
        <th width="20%" align="center">Domain</th>
-       <th width="25%" align="center">Skills Tools</th>
+       <th width="35%" align="center">Skills Tools</th>
        <th width="100%" align="center">Projects</th>
      </tr>
    </thead>
