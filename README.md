@@ -1,4 +1,4 @@
-<h1 align="center">👋 Namaste</h1>
+<h1 align="center">👋 Hello Guys...</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20Views&color=F75407&style=flat" alt="Profile Views" />
 </p>
 
 ## 📑 My Projects
