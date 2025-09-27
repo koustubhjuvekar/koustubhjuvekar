@@ -11,9 +11,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="">Sr. No.</th>
-      <th width="20%">Domain|Subject</th>
-      <th width="25%">Skills|Tools</th>
+     <!-- <th width="">Sr. No.</th> -->
+      <th width="20%">Domain | Subject</th>
+      <th width="25%">Skills | Tools</th>
       <th width="100%">Projects</th>
     </tr>
   </thead>
