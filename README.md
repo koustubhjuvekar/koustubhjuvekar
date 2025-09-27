@@ -7,44 +7,35 @@
 <br>
 
 ## 📑 My Projects
-   <table>
-     <thead>
-       <tr>
-         <th>Sr. No.</th>
-         <th>Project Name</th>
-         <th>Domain / Subject</th>
-         <th>Type</th>
-         <th>Repository Link</th>
-         <th>Description</th>
-       </tr>
-     </thead>
-     <tbody>
-       <tr>
-         <td>1</td>
-         <td>Cloud Resume</td>
-         <td>AWS / Cloud</td>
-         <td>Internship Project</td>
-         <td><a href="https://github.com/username/cloud-resume" target="_blank">Repo</a></td>
-         <td>A resume hosted on AWS using S3, CloudFront, and CI/CD pipeline.</td>
-       </tr>
-       <tr>
-         <td>2</td>
-         <td>DevOps Monitoring Setup</td>
-         <td>DevOps / Monitoring</td>
-         <td>Internship Project</td>
-         <td><a href="https://github.com/username/devops-monitoring" target="_blank">Repo</a></td>
-         <td>Setup of Prometheus and Grafana dashboards for server metrics.</td>
-       </tr>
-       <tr>
-         <td>3</td>
-         <td>Portfolio Website</td>
-         <td>Web Development</td>
-         <td>Personal Project</td>
-         <td><a href="https://github.com/username/portfolio" target="_blank">Repo</a></td>
-         <td>A personal portfolio website built with HTML, CSS, and JavaScript.</td>
-       </tr>
-     </tbody>
-   </table>
+  <table style="width:100%; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th style="width:25%;">Domain / Subject</th>
+      <th style="width:25%;">Skills / Tools</th>
+      <th style="width:50%;">Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>AWS Cloud Computing</td>
+      <td>Backup Vaults</td>
+      <td>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">
+          Enable Cross-Region Backup Replication for EC2 using AWS Backup
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>DevOps / Monitoring</td>
+      <td>Kubernetes, Docker</td>
+      <td>
+        <a href="https://github.com/username/devops-monitoring" target="_blank">
+          DevOps Monitoring Setup
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
