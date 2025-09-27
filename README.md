@@ -26,8 +26,8 @@
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">  ▶ Cross-Region Backup Replication</a><br>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">  ▶ Replication</a>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> → Cross-Region Backup Replication</a><br>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> → Replication</a>
       </td>
     </tr>
     <tr>
