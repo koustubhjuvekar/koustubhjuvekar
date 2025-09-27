@@ -6,7 +6,9 @@
 
 <br>
 
-# 📑 My Projects
+<h2><b>📑 My Projects</b></h2>
+<hr style="width:40%; border:1px solid #ccc; margin-left:0;">
+
 <table width="100%">
    <thead>
      <tr>
