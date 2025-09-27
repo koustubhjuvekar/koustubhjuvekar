@@ -28,9 +28,9 @@
       <td>
         <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
           -  Enable Cross-Region Backup Replication for EC2 using AWS Backup
-        </a>
+        </a><br>
         <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-          -  Enable Cross-Region Backup Replication for EC2 using AWS Backup
+          -  EC2 using AWS Backup
         </a>
       </td>
     </tr>
