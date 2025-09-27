@@ -2,24 +2,53 @@
 
    🌍 Pune, India | 
    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
-   📧 <a href="mailto:yourmail@example.com">Email</a>
+   📧 <a href="mailto:koustubhjuvekar07@gmail.com">Email</a>
 
 
 
-<!--
-## 📚 Learning Resources  
 
-| Sr. No | Domain / Subject | Material Links |
-|--------|------------------|----------------|
-| 1 | **AWS Cloud** | [AWS Docs](https://docs.aws.amazon.com/) • [AWS Training](https://aws.amazon.com/training/) |
-| 2 | **Docker** | [Docker Docs](https://docs.docker.com/) • [Play with Docker](https://labs.play-with-docker.com/) |
-| 3 | **Kubernetes** | [Kubernetes Docs](https://kubernetes.io/docs/) • [Katacoda Scenarios](https://www.katacoda.com/courses/kubernetes) |
-| 4 | **Jenkins** | [Jenkins Docs](https://www.jenkins.io/doc/) • [Jenkins Tutorials](https://www.jenkins.io/solutions/tutorials/) |
-| 5 | **Git & GitHub** | [Git Docs](https://git-scm.com/doc) • [GitHub Guides](https://guides.github.com/) |
-| 6 | **Terraform** | [Terraform Docs](https://developer.hashicorp.com/terraform/docs) • [Terraform Registry](https://registry.terraform.io/) |
+<table>
+  <thead>
+    <tr>
+      <th>Sr. No.</th>
+      <th>Project Name</th>
+      <th>Domain / Subject</th>
+      <th>Type</th>
+      <th>Repository Link</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Cloud Resume</td>
+      <td>AWS / Cloud</td>
+      <td>Internship Project</td>
+      <td><a href="https://github.com/username/cloud-resume" target="_blank">Repo</a></td>
+      <td>A resume hosted on AWS using S3, CloudFront, and CI/CD pipeline.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>DevOps Monitoring Setup</td>
+      <td>DevOps / Monitoring</td>
+      <td>Internship Project</td>
+      <td><a href="https://github.com/username/devops-monitoring" target="_blank">Repo</a></td>
+      <td>Setup of Prometheus and Grafana dashboards for server metrics.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Portfolio Website</td>
+      <td>Web Development</td>
+      <td>Personal Project</td>
+      <td><a href="https://github.com/username/portfolio" target="_blank">Repo</a></td>
+      <td>A personal portfolio website built with HTML, CSS, and JavaScript.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
--->
+
 ## 🚀 About Me  
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
 - 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
