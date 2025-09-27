@@ -19,7 +19,7 @@
       <th style="width:5%; align:center;">Sr. No.</th>
       <th style="width:10%; align:center;">Domain</th>
       <th style="width:15%; align:center;">Skills Tools</th>
-      <th colspan="2" style="width:70%; align:center;">Projects</th>
+      <th colspan="5" style="width:70%; align:center;">Projects</th>
     </tr>
   </thead>
   <tbody>
