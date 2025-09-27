@@ -16,10 +16,10 @@
 <table border="1">
   <thead>
     <tr>
-      <th style="width:5%; align:center;">Sr. No.</th>
-      <th style="width:10%; align:center;">Domain</th>
-      <th style="width:15%; align:center;">Skills Tools</th>
-      <th colspan="5" style="width:70%; align:center;">Projects</th>
+      <th width="10%" align="center">Sr. No.</th>
+      <th width="20%" align="center">Domain</th>
+      <th width="25%" align="center">Skills Tools</th>
+      <th width="45%" align="center">Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -27,17 +27,17 @@
       <td align="center">1</td>
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
-      <td colspan="2">
-            <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" style="text-decoration:none; color:inherit;"> - Cross-Region Backup Replication - AWS</a> <br>
-            <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202" style="text-decoration:none; color:inherit;"> - Another Project Subject Here </a>
+      <td>
+            <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> - Cross-Region Backup Replication - AWS</a> <br>
+            <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202"> - Another Project Subject Here </a>
       </td>
     </tr>
     <tr>
       <td></td>
       <td></td>
       <td>Kubernetes, Docker</td>
-      <td colspan="2">
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" style="text-decoration:none; color:inherit;"> - DevOps Project</a>
+      <td>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> - DevOps Project</a>
       </td>
     </tr>
   </tbody>
