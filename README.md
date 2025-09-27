@@ -43,7 +43,7 @@
     <tr>
       <!-- line --> 
      <td colspan="2" ></td>
-      <td colsspan="1" ></td> 
+     <td colspan="1" ></td> 
       <td>Kubernetes, Docker</td>
       <td>
        <ul>
