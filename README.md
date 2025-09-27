@@ -21,7 +21,7 @@
       <td>AWS Cloud Computing</td>
       <td>Internship Project</td>
       <td>Enable Cross-Region Backup Replication for EC2 using AWS Backup</td>
-      <td><a href="[https://github.com/username/cloud-resume](https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201)" target="_blank">Cross-Region Backup Replication - AWS</a></td>
+      <td><a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">Cross-Region Backup Replication - AWS</a></td>
       <td>Cross-Region Backup Replication → Creates automatic copies of backups in another AWS Region for disaster recovery and compliance.</td>
     </tr>
     <tr>
