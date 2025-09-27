@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Koustubh Juvekar  
+## 👋 Namaste 
 
    🌍 Pune, India | 
    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
