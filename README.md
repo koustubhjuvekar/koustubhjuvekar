@@ -13,7 +13,7 @@
 
 
 ## 📑 My Projects
-<table border="1" style="width:100%; border-collapse:collapse;">
+<table border="1" style="width:auto; border-collapse:collapse;">
   <thead>
     <tr>
       <th style="width:10%; text-align:center;">Sr. No.</th>
