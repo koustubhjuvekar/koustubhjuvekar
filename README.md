@@ -7,6 +7,7 @@
 <br>
 
 ## 📑 My Projects
+A passionate DevOps Practitioner from India
 <table width="1000%">
    <thead>
      <tr>
