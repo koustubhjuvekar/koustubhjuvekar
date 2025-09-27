@@ -16,7 +16,7 @@
 <table border="1" style="width:auto; border-collapse:collapse;">
   <thead>
     <tr>
-      <th style="width:30%; text-align:center;">Sr. No.</th>
+      <th style="width:auto; text-align:center;">Sr. No.</th>
       <th style="width:10%; text-align:center;">Domain</th>
       <th style="width:10%; text-align:center;">Skills Tools</th>
       <th style="width:10%; text-align:center;">Projects</th>
