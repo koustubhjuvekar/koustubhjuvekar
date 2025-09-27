@@ -13,7 +13,7 @@
 
 
 ## 📑 My Projects
-<table border="11">
+<table>
   <thead>
     <tr>
       <th width="10%" align="center">Sr. No.</th>
