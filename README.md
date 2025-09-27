@@ -11,7 +11,7 @@
 </p>
 
 ## 📑 My Projects
-<table width="1000%" border="1">
+<table width="100%" border="1">
    <thead>
      <tr>
        <th width="10%" align="center">Sr. No.</th>
@@ -22,19 +22,17 @@
    </thead>
   <tbody>
     <tr>
-      <td align="center">1</td>
-      <td align="center">AWS Cloud Computing</td>
+      <td rowspan="2" align="center">1</td>
+      <td rowspan="2" align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
        <ul>
         <li>
-          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-            <span width="100%" style="text-decoration:none; color:inherit;">Cross-Region Backup Replication</span>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" style="text-decoration:none; color:inherit;"> Cross-Region Backup Replication
           </a>
         </li>
         <li>
-          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202">
-            <span width="100%" style="text-decoration:none; color:inherit;">Another Project Subject Here</span>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202" style="text-decoration:none; color:inherit;"> Another Project Subject Here
           </a>
         </li>
       </ul>
@@ -48,8 +46,7 @@
       <td>
        <ul>
         <li>
-          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-            <span style="text-decoration:none; color:inherit;">Devops Project</span>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" style="text-decoration:none; color:inherit;">Devops Project
           </a>
         </li>
       </ul>
