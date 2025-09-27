@@ -7,8 +7,6 @@
 <br>
 
 <h2><b>📑 My Projects</b></h2>
-<hr style="width:40%; border:1px solid #ccc; margin-right:1;">
-
 <table width="100%">
    <thead>
      <tr>
