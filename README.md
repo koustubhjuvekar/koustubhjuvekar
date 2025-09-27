@@ -26,11 +26,13 @@
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-          -  Enable Cross-Region Backup Replication for EC2 using AWS Backup
-        </a>&nbsp;<br>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> - EC2 using AWS Backup
-        </a>
+       <ul>
+        <li>
+          <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
+            <span style="text-decoration:none; color:inherit;">Enable Cross-Region Backup Replication for EC2 using AWS Backup</span>
+          </a>
+        </li>
+      </ul>
       </td>
     </tr>
     <tr>
