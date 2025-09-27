@@ -6,8 +6,8 @@
 
 <br>
 
-<h2><b>📑 My Projects</b></h2>
-<table width="100%">
+## 📑 My Projects
+<table width="1000%">
    <thead>
      <tr>
        <th width="10%" align="center">Sr. No.</th>
