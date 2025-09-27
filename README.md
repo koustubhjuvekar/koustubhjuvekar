@@ -58,3 +58,8 @@
 - 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
 - 💡 Passionate about **Cloud Projects, Security & Automation**  
+
+<br>
+
+##  🏆 Achievement 
+<img width="207" height="192" alt="ISC2" src="https://github.com/user-attachments/assets/7c7327cc-43fc-48ef-8dae-ad7c68badcfd" />
