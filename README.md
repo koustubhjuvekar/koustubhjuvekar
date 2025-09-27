@@ -14,7 +14,7 @@
 <table width="1000%" border="1">
    <thead>
      <tr>
-       <th colspan="2" width="10%" align="center">Sr. No.</th>
+       <th width="10%" align="center">Sr. No.</th>
        <th width="20%" align="center">Domain</th>
        <th width="25%" align="center">Skills Tools</th>
        <th width="50%" align="center">Projects</th>
@@ -22,7 +22,7 @@
    </thead>
   <tbody>
     <tr>
-      <td align="center">1</td>
+      <td colspan="2" align="center">1</td>
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
