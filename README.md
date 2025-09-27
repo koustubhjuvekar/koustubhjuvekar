@@ -53,7 +53,7 @@
     <th>Projects</th>
   </tr>
   <tr>
-    <td rowspan="2">1</td>   <!-- 👈 yaha rowspan -->
+    <td rowspan="5">1</td>   <!-- 👈 yaha rowspan -->
     <td>AWS Cloud Computing</td>
     <td>Backup Vaults</td>
     <td><a href="#">Enable Cross-Region Backup Replication for EC2 using AWS Backup</a></td>
