@@ -24,6 +24,7 @@
   <tbody>
     <tr>
       <td align="center">1</td>
+      <td rowspan="2">1</td>   <!-- 👈 yaha rowspan -->
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
@@ -33,7 +34,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center"></td>
       <td align="center"></td>
       <td>Kubernetes, Docker</td>
       <td>
