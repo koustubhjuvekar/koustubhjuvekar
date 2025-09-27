@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Koustubh Juvekar  
 
-🌍 Pune, India | 🌐 Portfolio(https://www.koustubh18.site) | 📧 [Email](mailto:koustubhjuvekar07@gmail.com)  
+  <p>
+    🌍 Pune, India | 
+    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
+    📧 <a href="mailto:yourmail@example.com">Email</a>
+  </p>
 
 ---
 <!--
