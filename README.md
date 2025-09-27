@@ -6,6 +6,9 @@
   </a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ## 📑 My Projects
 
