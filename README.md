@@ -7,35 +7,11 @@
 <br>
 
 ## 📑 My Projects
-<table style="width:100%; table-layout: fixed;">
-  <thead>
-    <tr>
-      <th style="width:25%;">Domain / Subject</th>
-      <th style="width:25%;">Skills / Tools</th>
-      <th style="width:50%;">Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AWS Cloud Computing</td>
-      <td>Backup Vaults</td>
-      <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">
-          Enable Cross-Region Backup Replication for EC2 using AWS Backup
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>DevOps / Monitoring</td>
-      <td>Kubernetes, Docker</td>
-      <td>
-        <a href="https://github.com/username/devops-monitoring" target="_blank">
-          DevOps Monitoring Setup
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Domain / Subject     | Skills / Tools       | Projects |
+|-----------------------|----------------------|----------|
+| AWS Cloud Computing  | Backup Vaults        | [Enable Cross-Region Backup Replication for EC2 using AWS Backup](https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201) |
+| DevOps / Monitoring  | Kubernetes, Docker   | [DevOps Monitoring Setup](https://github.com/username/devops-monitoring) |
+
 
 
 ---
