@@ -23,7 +23,7 @@
       <td>Backup Vaults</td>
       <td>
         <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-          Enable Cross-Region Backup Replication for EC2 using AWS Backup 🔗
+          Enable Cross-Region Backup Replication for EC2 using AWS Backup
         </a>
       </td>
     </tr>
@@ -33,7 +33,7 @@
       <td>Kubernetes, Docker</td>
       <td>
         <a href="https://github.com/username/devops-monitoring">
-          DevOps Monitoring Setup 🔗
+          DevOps Monitoring Setup
         </a>
       </td>
     </tr>
