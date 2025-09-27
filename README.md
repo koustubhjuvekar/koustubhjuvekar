@@ -7,7 +7,7 @@
 <br>
 
 **📑 My Projects
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Turret+Road&weight=500&size=21&pause=1000&color=FF6C00&width=450&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Turret+Road&weight=500&size=21&pause=1000&color=FF6C00&width=750&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" /></a>
 <table width="1000%">
    <thead>
      <tr>
