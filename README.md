@@ -6,7 +6,7 @@
 
 <br>
 
-### 📑 My Projects
+# 📑 My Projects
 <table width="100%">
    <thead>
      <tr>
