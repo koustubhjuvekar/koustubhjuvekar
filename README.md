@@ -42,8 +42,8 @@
     </tr>
     <tr>
       <!-- line --> 
-     <td colspan="2" align="center"></td>
-      <td colspan="2" align="center"></td> 
+     <td colspan="2" ></td>
+      <td colspan="2" ></td> 
       <td>Kubernetes, Docker</td>
       <td>
        <ul>
