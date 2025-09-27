@@ -59,7 +59,6 @@
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
 - 💡 Passionate about **Cloud Projects, Security & Automation** 
  <br>
-
 ##  🏆 Achievement 
 
 [<img width="85" height="85" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
