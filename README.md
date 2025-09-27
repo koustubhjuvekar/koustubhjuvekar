@@ -14,9 +14,9 @@
 <table width="1000%" border="1">
    <thead>
      <tr>
-       <th width="10%" align="center">Sr. No.</th>
-       <th width="20%" align="center">Domain | Subject</th>
-       <th width="25%" align="center">Skills | Tools</th>
+       <th colspan="2" width="10%" align="center">Sr. No.</th>
+       <th width="20%" align="center">Domain</th>
+       <th width="25%" align="center">Skills Tools</th>
        <th width="50%" align="center">Projects</th>
      </tr>
    </thead>
