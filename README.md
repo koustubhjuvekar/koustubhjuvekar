@@ -1,6 +1,6 @@
 <h1 align="center">👋 Namaste</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Turret+Road&weight=500&size=27&letterSpacing=0.2rem&pause=1000&color=0C60FF&vCenter=true&width=1000&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Turret+Road&weight=500&size=27&letterSpacing=0.2rem&pause=1000&color=0C60FF&vCenter=true&width=1000&height=60&lines=A+passionate+AWS+Cloud+and+DevOps+Engineer+from+India!" alt="Typing SVG" align="center"/></a>
 
 ## 📑 My Projects
 
