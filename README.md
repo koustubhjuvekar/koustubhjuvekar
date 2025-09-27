@@ -10,7 +10,7 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="5%">Sr. No.</th>
+      <th width="15%">Sr. No.</th>
       <th width="20%">Domain|Subject</th>
       <th width="25%">Skills|Tools</th>
       <th width="100%">Projects</th>
