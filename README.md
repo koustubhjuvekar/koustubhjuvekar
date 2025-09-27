@@ -20,8 +20,8 @@
       <td>AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-          Cross-Region Backup Replication 🔗
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201" target="_blank">
+          Cross-Region Backup Replication
         </a>
       </td>
     </tr>
@@ -29,8 +29,8 @@
       <td>DevOps / Monitoring</td>
       <td>Kubernetes, Docker</td>
       <td>
-        <a href="https://github.com/username/devops-monitoring">
-          DevOps Monitoring Setup 🔗
+        <a href="https://github.com/username/devops-monitoring" target="_blank">
+          DevOps Monitoring Setup         
         </a>
       </td>
     </tr>
