@@ -33,8 +33,8 @@
       </td>
     </tr>
     <tr>
-   <!--   <td align="center"></td>
-      <td align="center"></td> -->
+      <td align="center">
+      <td align="center"></td>
       <td>Kubernetes, Docker</td>
       <td>
         <a href="https://github.com/username/devops-monitoring">
