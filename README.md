@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Koustubh Juvekar  
 
+  <style>
+    a {
+      text-decoration: none;  /* removes underline */
+      color: inherit;         /* keeps text same color as surrounding text */
+    }
+  </style>
   <p>
     🌍 Pune, India | 
     🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
