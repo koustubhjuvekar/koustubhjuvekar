@@ -57,8 +57,8 @@
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
 - 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
-- 💡 Passionate about **Cloud Projects, Security & Automation**  <br>
-
+- 💡 Passionate about **Cloud Projects, Security & Automation** 
+ <br>
 
 ##  🏆 Achievement 
 
