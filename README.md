@@ -16,10 +16,10 @@
 <table width="100%" border="1">
    <thead>
      <tr>
-       <th width="15%" align="center">Sr. No.</th>
-       <th width="25%" align="center">Domain</th>
-       <th width="10%" align="center">Skills Tools</th>
-       <th width="50%" align="center">Projects</th>
+       <th width="5%" align="center">Sr. No.</th>
+       <th width="10%" align="center">Domain</th>
+       <th width="25%" align="center">Skills Tools</th>
+       <th width="60%" align="center">Projects</th>
      </tr>
    </thead>
   <tbody>
