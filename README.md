@@ -16,10 +16,10 @@
 <table>
   <thead>
     <tr>
-      <th width="10%" align="center">Sr. No.</th>
-      <th width="20%" align="center">Domain</th>
-      <th width="25%" align="center">Skills Tools</th>
-      <th width="45%" align="center">Projects</th>
+      <th>Sr. No.</th>
+      <th>Domain</th>
+      <th>Skills Tools</th>
+      <th>Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -29,7 +29,7 @@
       <td>Backup Vaults</td>
       <td>
           -  <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> Cross-Region Backup Replication - AWS</a> <br>
-            <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202"> - Another Project Subject Here </a>
+          -  <a href="https://github.com/koustubhjuvekar/My-Projects/tree/ANOTHER_COMMIT_ID/Project%20-%202"> Another Project Subject Here </a>
       </td>
     </tr>
     <tr>
@@ -37,7 +37,15 @@
       <td></td>
       <td>Kubernetes, Docker</td>
       <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> - DevOps Project</a>
+        - <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">  DevOps Project</a>
+      </td>
+    </tr>
+     <tr>
+      <td>3</td>
+      <td>CI/CD</td>
+      <td>AWS CodePipeline, CodeBuild, CodeDeploy.</td>
+      <td>
+        - <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">   Deploy a Highly Available Website with Terraform on AWS</a>
       </td>
     </tr>
   </tbody>
