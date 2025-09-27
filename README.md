@@ -22,7 +22,7 @@
    </thead>
   <tbody>
     <tr>
-      <td colspan="3" align="center">1</td>
+      <td colspan="1" align="center">1</td>
       <td colspan="1" align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
@@ -42,8 +42,8 @@
     </tr>
     <tr>
       <!-- line --> 
-     <td colpan="1" ></td>
-      <td colspan="1" ></td> 
+     <td colspan="2" ></td>
+      <td colsspan="1" ></td> 
       <td>Kubernetes, Docker</td>
       <td>
        <ul>
