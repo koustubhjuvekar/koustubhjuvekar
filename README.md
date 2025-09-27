@@ -11,7 +11,7 @@
 </p>
 
 ## 📑 My Projects
-<table width="1000%">
+<table width="1000%" border="1">
    <thead>
      <tr>
        <th width="10%" align="center">Sr. No.</th>
