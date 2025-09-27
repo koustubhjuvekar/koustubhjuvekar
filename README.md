@@ -63,5 +63,6 @@
 
 ##  🏆 Achievement 
 
-<img width="108" height="104" alt="ISC2 (1)" src="https://github.com/user-attachments/assets/ac79777d-06d0-44d8-8ceb-c2ebd82887b9" />
+[<img width="100" height="100" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
+
 
