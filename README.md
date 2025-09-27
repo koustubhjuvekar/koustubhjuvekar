@@ -15,9 +15,9 @@
    <thead>
      <tr>
        <th width="10%" align="center">Sr. No.</th>
-       <th width="20%" align="center">Domain | Subject</th>
-       <th width="25%" align="center">Skills | Tools</th>
-       <th width="50%" align="center">Projects</th>
+       <th width="20%" align="center">Domain</th>
+       <th width="25%" align="center">Skills Tools</th>
+       <th width="100%" align="center">Projects</th>
      </tr>
    </thead>
   <tbody>
@@ -26,14 +26,13 @@
       <td align="center">AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
-        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">
-          Enable Cross-Region Backup Replication for EC2 using AWS Backup
-        </a>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> ◾ Cross-Region Backup Replication</a><br>
+        <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201"> ◾ Replication</a>
       </td>
     </tr>
     <tr>
-      <td align="center">2</td>
-      <td align="center">DevOps / Monitoring</td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td>Kubernetes, Docker</td>
       <td>
         <a href="https://github.com/username/devops-monitoring">
