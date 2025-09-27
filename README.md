@@ -10,6 +10,7 @@
   <table style="width:100%; table-layout: fixed;">
   <thead>
     <tr>
+      <th style="width:25%;">Sr. No.</th>
       <th style="width:25%;">Domain / Subject</th>
       <th style="width:25%;">Skills / Tools</th>
       <th style="width:50%;">Projects</th>
@@ -17,6 +18,7 @@
   </thead>
   <tbody>
     <tr>
+      <td>1. </td>
       <td>AWS Cloud Computing</td>
       <td>Backup Vaults</td>
       <td>
@@ -26,6 +28,7 @@
       </td>
     </tr>
     <tr>
+      <td>2. </td>
       <td>DevOps / Monitoring</td>
       <td>Kubernetes, Docker</td>
       <td>
