@@ -4,16 +4,13 @@
    🌐 <a href="https://www.koustubh18.site" target="_blank">Portfolio</a> | 
    📧 <a href="mailto:koustubhjuvekar07@gmail.com">Email</a>
 
-
-
-
 <table>
   <thead>
     <tr>
       <th>Sr. No.</th>
-      <th>Project Name</th>
       <th>Domain / Subject</th>
       <th>Type</th>
+      <th>Project Name</th>
       <th>Repository Link</th>
       <th>Description</th>
     </tr>
@@ -21,27 +18,19 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>Cloud Resume</td>
-      <td>AWS / Cloud</td>
+      <td>AWS Cloud Computing</td>
       <td>Internship Project</td>
-      <td><a href="https://github.com/username/cloud-resume" target="_blank">Repo</a></td>
-      <td>A resume hosted on AWS using S3, CloudFront, and CI/CD pipeline.</td>
+      <td>Enable Cross-Region Backup Replication for EC2 using AWS Backup</td>
+      <td><a href="[https://github.com/username/cloud-resume](https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201)" target="_blank">Cross-Region Backup Replication - AWS</a></td>
+      <td>Cross-Region Backup Replication → Creates automatic copies of backups in another AWS Region for disaster recovery and compliance.</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>DevOps Monitoring Setup</td>
       <td>DevOps / Monitoring</td>
       <td>Internship Project</td>
+      <td>DevOps Monitoring Setup</td>
       <td><a href="https://github.com/username/devops-monitoring" target="_blank">Repo</a></td>
       <td>Setup of Prometheus and Grafana dashboards for server metrics.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Portfolio Website</td>
-      <td>Web Development</td>
-      <td>Personal Project</td>
-      <td><a href="https://github.com/username/portfolio" target="_blank">Repo</a></td>
-      <td>A personal portfolio website built with HTML, CSS, and JavaScript.</td>
     </tr>
   </tbody>
 </table>
