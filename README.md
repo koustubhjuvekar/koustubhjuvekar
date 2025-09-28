@@ -62,3 +62,23 @@
 [<img width="85" height="85" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
 
+
+## 🚀 GitHub Statistics  
+
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar">
+    <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=tokyonight&hide_border=true" alt="Koustubh's GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=tokyonight&hide_border=true" alt="Koustubh's GitHub streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </a>
+</p>
