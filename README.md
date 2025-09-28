@@ -94,7 +94,7 @@
 
 <p align="center">
   <a href="https://koustubh18.site" target="_blank">
-    <img src="https://img.shields.io/badge/🌍 Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-koustubh18.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
