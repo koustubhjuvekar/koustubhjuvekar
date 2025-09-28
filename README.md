@@ -63,7 +63,7 @@
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
 
 
-## 🚀 GitHub Statistics  
+## 🚀 `GitHub Statistics`  
 
 <p align="center">
   <a href="https://github.com/koustubhjuvekar">
@@ -78,7 +78,7 @@
 </p>
 
 
-## 🌐 Connect With Me  
+## 🌐 `Connect With Me`  
 
 <p align="center">
   <a href="https://koustubh18.site" target="_blank">
@@ -101,4 +101,16 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  💡 <strong>"Don't think about result, trust the process!"</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <a href="https://github.com/koustubhjuvekar?tab=followers">
+    <img src="https://img.shields.io/github/followers/koustubhjuvekar?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
