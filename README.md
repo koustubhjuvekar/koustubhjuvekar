@@ -58,7 +58,7 @@
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
 - 💡 Passionate about **Cloud Projects, Security & Automation** 
 
- <br>
+
  
 ##  🏆 `Achievement`
 [<img width="85" height="85" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
@@ -69,8 +69,8 @@
 ## 🚀 `GitHub Statistics`  
 
 <p align="center">
-    <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=tokyonight&hide_border=true" height="150" /></a> &emsp;
-    <a href="https://github.com/koustubhjuvekar" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=tokyonight&hide_border=true" height="150" /></a>
+    <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=tokyonight&hide_border=true" height="150" width="500"/></a> &emsp;
+    <a href="https://github.com/koustubhjuvekar" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=tokyonight&hide_border=true" height="150" width="500"/></a>
 <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
 </p>
 
