@@ -88,7 +88,7 @@
       <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="119" height="30" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
       <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="30" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" /></a>
       <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="135" height="30" alt="X Button" src="https://github.com/user-attachments/assets/994ec5af-1bd3-45d3-9685-97c32b221277" /></a> <br><br>
-      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="320" height="30" alt="Email" src="https://github.com/user-attachments/assets/b4398827-8f8b-484c-8dd8-5ee9fd29fe30" /></a>
+      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="30" alt="Email" src="https://github.com/user-attachments/assets/b4398827-8f8b-484c-8dd8-5ee9fd29fe30" /></a>
   </p>
 </div>
 
