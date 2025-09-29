@@ -85,7 +85,7 @@
 <div align="center" dir="auto">
   <p dir="auto" align="center">
       <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" /></a>
-      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="34" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
+      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="33" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
       <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" /></a>
       <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="135" height="33" alt="X Button" src="https://github.com/user-attachments/assets/994ec5af-1bd3-45d3-9685-97c32b221277" /></a>
       <a href="https://fb.com/koustubhjuvekar"  rel="nofollow"><img width="135" height="34" alt="fb Button" src="https://github.com/user-attachments/assets/2a1adb98-e4f4-4cc3-84b1-9f3530f71240" /></a> <br><br>
