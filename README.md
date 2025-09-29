@@ -88,7 +88,7 @@
       <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
       <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" /></a>
       <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="150" height="32" alt="X Button" src="https://github.com/user-attachments/assets/994ec5af-1bd3-45d3-9685-97c32b221277" /></a>
-      <a href="https://fb.com/koustubhjuvekar"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/2a1adb98-e4f4-4cc3-84b1-9f3530f71240" /></a> <br><br>
+      <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/2a1adb98-e4f4-4cc3-84b1-9f3530f71240" /></a> <br><br>
       <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/b4398827-8f8b-484c-8dd8-5ee9fd29fe30" /></a>
   </p>
 </div>
