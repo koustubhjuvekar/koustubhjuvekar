@@ -50,6 +50,7 @@
   </tbody>
 </table>
 
+<br>
 
 ## 🚀 `About Me`  
 - 🌱 Currently learning and working on **AWS Cloud & DevOps**  
@@ -57,11 +58,13 @@
 - 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
 - 💡 Passionate about **Cloud Projects, Security & Automation** 
 
+ <br>
  
 ##  🏆 `Achievement`
 [<img width="85" height="85" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
 
+<br>
 
 ## 🚀 `GitHub Statistics`  
 
