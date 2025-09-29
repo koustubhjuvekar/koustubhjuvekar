@@ -116,28 +116,4 @@
   </a>
 </p>
 
-<a href="https://linkedin.com/in/koustubhjuvekar" target="_blank" class="button-3d">
-  LinkedIn
-</a>
 
-<style>
-.button-3d {
-  display: inline-block;
-  padding: 12px 28px;
-  font-size: 18px;
-  font-weight: bold;
-  color: white;
-  background: linear-gradient(145deg, #0A66C2, #084a8f);
-  border: none;
-  border-radius: 10px;
-  box-shadow: 4px 4px 8px #062c5c, -4px -4px 8px #0c7cff;
-  text-decoration: none;
-  transition: all 0.2s ease-in-out;
-}
-
-.button-3d:hover {
-  background: linear-gradient(145deg, #0c7cff, #0A66C2);
-  box-shadow: inset 4px 4px 6px #084a8f, inset -4px -4px 6px #0c7cff;
-  transform: translateY(2px);
-}
-</style>
