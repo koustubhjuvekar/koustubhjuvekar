@@ -17,9 +17,7 @@
 👨‍🎓 &nbsp;B.E. in Computer Engineering (First Class Distinction) <br>
 🔐 &nbsp;Cybersecurity Certified – ISC2 CC & Google Cybersecurity Certificate <br>
 💡 &nbsp;Passionate about Cloud, Security & Automation <br>
-🚀 &nbsp;Actively seeking job opportunities in Cloud / DevOps / Security domains
-
-<br>
+🚀 &nbsp;Actively seeking job opportunities in Cloud / DevOps / Security domains <br>
                
 ## 📑 `My Projects`
 <table>
