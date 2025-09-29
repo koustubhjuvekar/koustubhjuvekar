@@ -117,4 +117,4 @@
 </p>
 
 
-<img width="150" height="40" alt="linkedinbutton1" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
+<img width="150" height="20" alt="linkedinbutton1" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
