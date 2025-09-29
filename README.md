@@ -121,7 +121,7 @@
   <img width="180" height="33" alt="Website Button" src="https://github.com/user-attachments/assets/5137ed59-dba3-490e-adc4-9977ff2412ff" />  
 </a>
 <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
-  <img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
+  <img width="130" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
 </a>
 <a href="https://instagram.com/koustubh18900" target="_blank">
   <img width="160" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" />  
