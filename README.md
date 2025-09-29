@@ -76,8 +76,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/koustubhjuvekar/Koustubh-Docker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Docker&theme=radical&hide_border=true&border_radius=25&description_lines=2" /></a>
-  <a href="https://github.com/koustubhjuvekar/Koustubh-Terraform.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Terraform&theme=radical&hide_border=true&border_radius=25&description_lines=0" /></a>
+  <a href="https://github.com/koustubhjuvekar/Koustubh-Docker.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Docker&theme=radical&hide_border=true&border_radius=25" /></a>
+  <a href="https://github.com/koustubhjuvekar/Koustubh-Terraform.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Terraform&theme=radical&hide_border=true&border_radius=25" /></a>
 </p>
 
 
