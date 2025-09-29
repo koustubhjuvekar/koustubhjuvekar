@@ -65,6 +65,29 @@
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
 
 
+### 📂 `My Top Repos`
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar/koustubhjuvekar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=koustubhjuvekar&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/koustubhjuvekar/My-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=My-Projects&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=myportfolio&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/koustubhjuvekar/Koustubh-Docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Docker&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
+
 ## 🚀 `GitHub Statistics`  
 
 <p align="center">
@@ -110,27 +133,7 @@
 
 
 
-### 📂 `My Top Repos`
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/koustubhjuvekar/koustubhjuvekar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=koustubhjuvekar&theme=radical&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/koustubhjuvekar/My-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=My-Projects&theme=radical&hide_border=true&border_radius=15" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/koustubhjuvekar/myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=myportfolio&theme=radical&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/koustubhjuvekar/Koustubh-Docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Docker&theme=radical&hide_border=true&border_radius=15" />
-  </a>
-</p>
 
 
 
