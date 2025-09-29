@@ -108,9 +108,7 @@
   </a>
 </p>
 
-### 📂 My Top Repos
-
-### 📂 Latest Repositories  
+### 📂 `My Top Repos`
 
 <p align="center">
   <a href="https://github.com/koustubhjuvekar/koustubhjuvekar">
