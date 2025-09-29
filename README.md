@@ -119,4 +119,9 @@
 
 <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
   <img width="150" height="35" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
+</a>&emsp;
+<a href="https://instagram.com/koustubh18900" target="_blank">
+  <img width="150" height="35" alt="Instagram Button" src="https://github.com/user-attachments/assets/2ecb44b7-bf15-489c-ab1f-25bea7b99add" />  
 </a>
+
+
