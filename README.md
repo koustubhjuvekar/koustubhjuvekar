@@ -110,54 +110,23 @@
 
 ### 📂 My Top Repos
 
-### 📂 Featured Repositories
+<h2>📂 Latest Repositories</h2>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/devops-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=devops-project&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/aws-cloud-automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=aws-cloud-automation&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/k8s-setup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=k8s-setup&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/security-tools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=security-tools&theme=dark" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/project-5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-5&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/project-6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-6&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/project-7">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-7&theme=dark" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/koustubhjuvekar/project-8">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-8&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+  
+  <div style="flex: 1 1 calc(50% - 15px); background: #111; color: white; padding: 15px; border-radius: 12px;">
+    <a href="https://github.com/koustubhjuvekar/koustubhjuvekar" style="color: #3DDC84; font-weight: bold;">koustubhjuvekar</a>
+    <p>No description available.</p>
+    ⭐ 0 | 🍴 0 | ⚡ N/A
+  </div>
+  
+  <div style="flex: 1 1 calc(50% - 15px); background: #111; color: white; padding: 15px; border-radius: 12px;">
+    <a href="https://github.com/koustubhjuvekar/My-Projects" style="color: #3DDC84; font-weight: bold;">My-Projects</a>
+    <p>I worked on these projects during my internship.</p>
+    ⭐ 1 | 🍴 0 | ⚡ N/A
+  </div>
+
+</div>
 
 
 <!-- <a href="https://koustubh18.site" target="_blank">
