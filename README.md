@@ -85,7 +85,7 @@
     <img src="https://img.shields.io/badge/-www.koustubh18.site-000?style=for-the-badge&logo=Firefox" alt="Website" />
   </a>&emsp;
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>&emsp;
   <a href="https://instagram.com/koustubh18900" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
