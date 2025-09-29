@@ -110,23 +110,26 @@
 
 ### 📂 My Top Repos
 
-<h2>📂 Latest Repositories</h2>
+### 📂 Latest Repositories  
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  
-  <div style="flex: 1 1 calc(50% - 15px); background: #111; color: white; padding: 15px; border-radius: 12px;">
-    <a href="https://github.com/koustubhjuvekar/koustubhjuvekar" style="color: #3DDC84; font-weight: bold;">koustubhjuvekar</a>
-    <p>No description available.</p>
-    ⭐ 0 | 🍴 0 | ⚡ N/A
-  </div>
-  
-  <div style="flex: 1 1 calc(50% - 15px); background: #111; color: white; padding: 15px; border-radius: 12px;">
-    <a href="https://github.com/koustubhjuvekar/My-Projects" style="color: #3DDC84; font-weight: bold;">My-Projects</a>
-    <p>I worked on these projects during my internship.</p>
-    ⭐ 1 | 🍴 0 | ⚡ N/A
-  </div>
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar/koustubhjuvekar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=koustubhjuvekar&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/koustubhjuvekar/My-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=My-Projects&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/koustubhjuvekar/myportfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=myportfolio&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+  <a href="https://github.com/koustubhjuvekar/Koustubh-Docker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-Docker&theme=radical&hide_border=true&border_radius=15" />
+  </a>
+</p>
+
 
 
 <!-- <a href="https://koustubh18.site" target="_blank">
