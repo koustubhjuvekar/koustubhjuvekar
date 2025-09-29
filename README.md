@@ -13,7 +13,7 @@
 ## 🚀 `About Me` 
 I am a Computer Engineering graduate with First Class Distinction, certified in Cybersecurity (ISC2 CC and Google Cybersecurity Certificate). I have completed internship and training in **AWS Cloud and DevOps**, where I gained hands-on experience with cloud projects, automation, and security practices. Currently, I am learning and working on AWS Cloud and DevOps projects while deepening my expertise in cloud technologies and automation. I am passionate about building secure, scalable solutions and am actively seeking job opportunities in the fields of Cloud, DevOps, and Security.
 
-
+<br>
 
 ## 📑 `My Projects`
 <table>
