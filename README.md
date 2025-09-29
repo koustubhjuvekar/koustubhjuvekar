@@ -10,15 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar1&label=Profile%20Visits&color=F75407&style=flat" alt="Profile Views" />
 </p>
 
-## 🚀 `About Me` 
-
-💼 &nbsp;Completed Internship in AWS Cloud & DevOps with hands-on project experience <br>
-🛠️ &nbsp;Learning and building real-world projects in AWS Cloud & DevOps <br>
-👨‍🎓 &nbsp;B.E. in Computer Engineering (First Class Distinction) <br>
-🔐 &nbsp;Cybersecurity Certified – ISC2 CC & Google Cybersecurity Certificate <br>
-💡 &nbsp;Passionate about Cloud, Security & Automation <br>
-🚀 &nbsp;Actively seeking job opportunities in Cloud / DevOps / Security domains <br>
-
                
 ## 📑 `My Projects`
 <table>
