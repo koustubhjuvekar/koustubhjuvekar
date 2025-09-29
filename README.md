@@ -82,24 +82,25 @@
 
 <p align="center">
   <a href="https://koustubh18.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-🌍-white?style=flat-square&logo=google-chrome&logoColor=4285F4" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/koustubh18900" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="https://facebook.com/koustubhjuvekar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-white?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" />
   </a>
   <a href="https://twitter.com/itsKoustubhJ" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-white?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
   </a>
   <a href="mailto:koustubhjuvekar07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=D14836" alt="Email" />
   </a>
 </p>
+
 
 
 
