@@ -110,12 +110,55 @@
 
 ### 📂 My Top Repos
 
-<a href="https://github.com/koustubhjuvekar/devops-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=devops-project&theme=dark" />
-</a>
-<a href="https://github.com/koustubhjuvekar/aws-cloud-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=aws-cloud-automation&theme=dark" />
-</a>
+### 📂 Featured Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/devops-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=devops-project&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/aws-cloud-automation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=aws-cloud-automation&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/k8s-setup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=k8s-setup&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/security-tools">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=security-tools&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/project-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-5&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/project-6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-6&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/project-7">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-7&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/koustubhjuvekar/project-8">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=project-8&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!-- <a href="https://koustubh18.site" target="_blank">
     <img src="https://img.shields.io/badge/www.koustubh18.site-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
