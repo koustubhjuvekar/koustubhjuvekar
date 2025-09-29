@@ -108,6 +108,14 @@
   </a>
 </p>
 
+### 📂 My Top Repos
+
+<a href="https://github.com/koustubhjuvekar/devops-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=devops-project&theme=dark" />
+</a>
+<a href="https://github.com/koustubhjuvekar/aws-cloud-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=aws-cloud-automation&theme=dark" />
+</a>
 
 <!-- <a href="https://koustubh18.site" target="_blank">
     <img src="https://img.shields.io/badge/www.koustubh18.site-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
