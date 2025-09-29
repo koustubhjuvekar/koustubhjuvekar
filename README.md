@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=react-dark&hide_border=true" alt="Contribution Graph" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=react-dark&hide_border=true" alt="Contribution Graph" height="200" width="100" />
 </p>
 
 
