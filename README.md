@@ -24,7 +24,7 @@
 
 🚀 Actively seeking job opportunities in Cloud / DevOps / Security domains
 
-
+<br>
                
 ## 📑 `My Projects`
 <table>
