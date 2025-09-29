@@ -84,14 +84,15 @@
 
 <div align="center" dir="auto">
   <p dir="auto" align="center">
-      <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" /></a>
-      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
-      <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" /></a>
-      <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="150" height="32" alt="X Button" src="https://github.com/user-attachments/assets/994ec5af-1bd3-45d3-9685-97c32b221277" /></a>
-      <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/2a1adb98-e4f4-4cc3-84b1-9f3530f71240" /></a> <br><br>
-      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/b4398827-8f8b-484c-8dd8-5ee9fd29fe30" /></a>
+      <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/7c613912-841e-4c95-b1c8-dd9e14f72e0e" /></a>
+      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/06a11746-bed3-465c-a6e7-143e560eb3f8" /></a>
+      <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/0d64caff-8750-45ec-86f5-41b18dc10ee1" /></a>
+      <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="150" height="32" alt="X Button" src="https://github.com/user-attachments/assets/995c14cf-4515-4889-a4e7-a4e8c783f7b4" /></a>
+      <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/40f3c3af-11de-4a10-bb84-5298897505b0" /></a> <br><br>
+      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/f6924fdb-ed54-487d-af64-979f49a6135d" /></a>
   </p>
 </div>
+
 
 
 ---
