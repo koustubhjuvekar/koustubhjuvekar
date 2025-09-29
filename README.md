@@ -69,7 +69,7 @@
   <a href="https://github.com/koustubhjuvekar">
     <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   </a>
-  <a href="https://github.com/koustubhjuvekar">
+  <a href="https://github.com/koustubhjuvekar" rel="nofollow">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=tokyonight&hide_border=true" height="150" />
   </a>
   <a href="https://github.com/koustubhjuvekar">
