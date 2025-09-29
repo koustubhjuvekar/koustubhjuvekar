@@ -81,12 +81,9 @@
 ## 🌐 `Connect With Me`  
 <div align="center" dir="auto">
   <p dir="auto" align="center">
-      <a href="https://koustubh18.site"  rel="nofollow"><img width="150" height="30" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" />  
-    </a>
-       <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="119" height="30" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
-    </a>
-       <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="30" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" />  
-    </a>
+      <a href="https://koustubh18.site"  rel="nofollow"><img width="150" height="30" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" /></a>
+      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="119" height="30" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" /></a>
+      <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="30" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" /></a>
   </p>
 </div>
 
@@ -101,15 +98,6 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
   <a href="https://github.com/koustubhjuvekar?tab=followers">
     <img src="https://img.shields.io/github/followers/koustubhjuvekar?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank" rel="nofollow">
-    <img width="150" height="35" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
-  </a>
-  <a href="https://instagram.com/koustubh18900" target="_blank" rel="nofollow">
-    <img width="150" height="30" alt="Instagram Button" src="https://github.com/user-attachments/assets/09cd610a-d1df-47d2-925d-7b394c01b9ba" />
   </a>
 </p>
 
