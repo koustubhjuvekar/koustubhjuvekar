@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://koustubh18.site" target="_blank">
-    <img width="160" height="30" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" />  
+    <img width="150" height="30" alt="Website Button" src="https://github.com/user-attachments/assets/83898d8a-a2ee-4ae9-b645-9ec170fba22c" />  
   </a>
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
     <img width="119" height="30" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/a77b7707-e62c-4190-83ea-bd7121a7dd2e" />
