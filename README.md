@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=react-dark&hide_border=true" alt="Contribution Graph" height="700" width="800" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=react-dark&hide_border=true" alt="Contribution Graph" height="700" width="750" />
 </p>
 
 <br>
