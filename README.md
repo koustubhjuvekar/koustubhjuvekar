@@ -12,17 +12,17 @@
 
 ## 🚀 `About Me` 
 
-💼 Completed Internship in AWS Cloud & DevOps with hands-on project experience
+💼 &nbsp;Completed Internship in AWS Cloud & DevOps with hands-on project experience
 
-🛠️ Learning and building real-world projects in AWS Cloud & DevOps
+🛠️ &nbsp;Learning and building real-world projects in AWS Cloud & DevOps
 
-👨‍🎓 B.E. in Computer Engineering (First Class Distinction)
+👨‍🎓 &nbsp;B.E. in Computer Engineering (First Class Distinction)
 
-🔐 Cybersecurity Certified – ISC2 CC & Google Cybersecurity Certificate
+🔐 &nbsp;Cybersecurity Certified – ISC2 CC & Google Cybersecurity Certificate
 
-💡 Passionate about Cloud, Security & Automation
+💡 &nbsp;Passionate about Cloud, Security & Automation
 
-🚀 Actively seeking job opportunities in Cloud / DevOps / Security domains
+🚀 &nbsp;Actively seeking job opportunities in Cloud / DevOps / Security domains
 
 <br>
                
