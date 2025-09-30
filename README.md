@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-KOUSTUBH18.SITE-322BFF?style=for-the-badge&labelColor=3b3b3b&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-KOUSTUBH18.SITE-007D0C?style=for-the-badge&labelColor=3b3b3b&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://instagram.com/koustubh18900" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-F51853?style=for-the-badge&labelColor=3b3b3b&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://x.com/itsKoustubhJ" target="_blank"><img src="https://img.shields.io/badge/TWITTER-Follow X-000000?style=for-the-badge&labelColor=3b3b3b&logo=instagram&logoColor=white" alt="Twitter" /></a>&nbsp;
