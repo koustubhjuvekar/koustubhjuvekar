@@ -104,7 +104,7 @@
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-007bff?style=for-the-badge&labelColor=3b3b3b&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://instagram.com/koustubh18900" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-F51853?style=for-the-badge&labelColor=3b3b3b&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://x.com/itsKoustubhJ" target="_blank"><img src="https://img.shields.io/badge/TWITTER-Follow X-000000?style=for-the-badge&labelColor=3b3b3b&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100007574100107" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-Follow-007bff?style=for-the-badge&labelColor=3b3b3b&logo=instagram&logoColor=white" alt="Facebook" /></a>&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100007574100107" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-Follow-007bff?style=for-the-badge&labelColor=3b3b3b&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
   <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-koustubhjuvekar07@gmail.com-910000?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
