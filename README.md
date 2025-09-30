@@ -98,8 +98,15 @@
 
 ## 🌐 `Connect With Me`  
 <br>
+      <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/www.koustubh18.site-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>&emsp;
+      <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&emsp;
+    <a href="https://instagram.com/koustubh18900" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&emsp;
+    <a href="https://facebook.com/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&emsp;
+    <a href="https://twitter.com/itsKoustubhJ" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&emsp;
+    <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<div align="center" dir="auto">
+    
+<!-- <div align="center" dir="auto">
   <p dir="auto" align="center">
       <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/7c613912-841e-4c95-b1c8-dd9e14f72e0e" /></a> &nbsp;
       <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/06a11746-bed3-465c-a6e7-143e560eb3f8" /></a> &nbsp;
@@ -108,7 +115,7 @@
       <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/40f3c3af-11de-4a10-bb84-5298897505b0" /></a> <br><br>
       <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/f6924fdb-ed54-487d-af64-979f49a6135d" /></a>
   </p>
-</div>
+</div> -->
 
 
 
