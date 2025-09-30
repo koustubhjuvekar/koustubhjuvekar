@@ -100,8 +100,8 @@
 <br>
 
 <p align="center">
-  <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-koustubh18.site-007bff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-555555?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-KOUSTUBH18.SITE-007bff?style=for-the-badge&labelColor=000000&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-Connect-555555?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://instagram.com/koustubh18900" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-444444?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-koustubhjuvekar07@gmail.com-e2574c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
