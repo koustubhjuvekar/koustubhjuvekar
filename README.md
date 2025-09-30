@@ -105,7 +105,7 @@
   <a href="https://instagram.com/koustubh18900" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-Follow-F51853?style=for-the-badge&labelColor=3b3b3b&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://x.com/itsKoustubhJ" target="_blank"><img src="https://img.shields.io/badge/TWITTER-Follow X-FFFFFF?style=for-the-badge&labelColor=3b3b3b&logo=twitter-logo&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100007574100107" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-Follow-007bff?style=for-the-badge&labelColor=3b3b3b&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-  <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-koustubhjuvekar07@gmail.com-910000?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-koustubhjuvekar07@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
     
