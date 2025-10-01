@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Guys...</h1>
+<h1 align="center">👋 Hello Friends...</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar1&label=Profile%20Visits&color=F75407&style=flat" alt="Profile Views" />
 </p>
 
-               
+<!-- Project Section -->
 ## 📑 `My Projects`
 <table>
   <thead>
@@ -52,14 +52,7 @@
 
 <br>
 
-<!-- ## 🚀 `About Me`  
-- 🌱 Currently learning and working on **AWS Cloud & DevOps**  
-- 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
-- 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
-- 💡 Passionate about **Cloud Projects, Security & Automation**  -->
-
-
- 
+<!-- Achievement Section --> 
 ##  🏆 `Achievement`
 [<img width="85" height="85" alt="ISC2" src="https://github.com/user-attachments/assets/d20ba736-13af-4f07-ae65-fc11eb3ccc2c" />](https://drive.google.com/open?id=1fI9Bymet-YddSlmp5GELz4RQrCG8aCcq&usp=drive_fs)
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
@@ -87,6 +80,7 @@
 <p align="center">
     <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/></a> &emsp;
     <a href="https://github.com/koustubhjuvekar" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=tokyonight&hide_border=true" height="150"/></a>
+<!-- EXTRA STATISTIC BOX-->  
 <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
 </p>
 
@@ -109,18 +103,6 @@
     <a href="mailto:koustubhjuvekar07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-koustubhjuvekar07@gmail.com-750008?style=for-the-badge&labelColor=3b3b3b&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div> 
-    
-<!-- <div align="center" dir="auto">
-  <p dir="auto" align="center">
-      <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/7c613912-841e-4c95-b1c8-dd9e14f72e0e" /></a> &nbsp;
-      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/06a11746-bed3-465c-a6e7-143e560eb3f8" /></a> &nbsp;
-      <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/0d64caff-8750-45ec-86f5-41b18dc10ee1" /></a> &nbsp;
-      <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="150" height="32" alt="X Button" src="https://github.com/user-attachments/assets/995c14cf-4515-4889-a4e7-a4e8c783f7b4" /></a> &nbsp;
-      <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/40f3c3af-11de-4a10-bb84-5298897505b0" /></a> <br><br>
-      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/f6924fdb-ed54-487d-af64-979f49a6135d" /></a>
-  </p>
-</div> -->
-
 
 
 ---
@@ -138,10 +120,17 @@
 
 
 
+<!-- ROUGH SECTION -->
+
+<!-- ## 🚀 `About Me`  
+- 🌱 Currently learning and working on **AWS Cloud & DevOps**  
+- 🔐 Cybersecurity certified (ISC2 CC + Google Cybersecurity Certificate)  
+- 👨‍🎓 B.E. in **Computer Engineering** (First Class Distinction)  
+- 💡 Passionate about **Cloud Projects, Security & Automation**  -->
 
 
-
-
+<!-- CONNECT ME SECTION -->
+<!--1. -->
 <!-- <a href="https://koustubh18.site" target="_blank">
     <img src="https://img.shields.io/badge/www.koustubh18.site-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>&emsp;
@@ -161,3 +150,18 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 -->
+
+
+<!--2. -->
+    
+<!-- <div align="center" dir="auto">
+  <p dir="auto" align="center">
+      <a href="https://koustubh18.site"  rel="nofollow"><img width="160" height="34" alt="Website Button" src="https://github.com/user-attachments/assets/7c613912-841e-4c95-b1c8-dd9e14f72e0e" /></a> &nbsp;
+      <a href="https://linkedin.com/in/koustubhjuvekar"  rel="nofollow"><img width="150" height="32" alt="LinkedIn Button" src="https://github.com/user-attachments/assets/06a11746-bed3-465c-a6e7-143e560eb3f8" /></a> &nbsp;
+      <a href="https://instagram.com/koustubh18900"  rel="nofollow"><img width="150" height="33" alt="Instagram Button" src="https://github.com/user-attachments/assets/0d64caff-8750-45ec-86f5-41b18dc10ee1" /></a> &nbsp;
+      <a href="https://x.com/itsKoustubhJ"  rel="nofollow"><img width="150" height="32" alt="X Button" src="https://github.com/user-attachments/assets/995c14cf-4515-4889-a4e7-a4e8c783f7b4" /></a> &nbsp;
+      <a href="https://www.facebook.com/profile.php?id=100007574100107"  rel="nofollow"><img width="150" height="33" alt="fb Button" src="https://github.com/user-attachments/assets/40f3c3af-11de-4a10-bb84-5298897505b0" /></a> <br><br>
+      <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/f6924fdb-ed54-487d-af64-979f49a6135d" /></a>
+  </p>
+</div> -->
+
