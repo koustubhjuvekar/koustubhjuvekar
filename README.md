@@ -47,7 +47,7 @@
         - <a href="https://github.com/koustubhjuvekar/My-Projects/tree/d77d8dc30f6f315d006c1905d5e9dd41f419c6aa/Project%20-%201">   Deploy a Highly Available Website with Terraform on AWS</a>
       </td>
     </tr>
-  </tbody>
+  </tbody> 
 </table>
 
 <br>
