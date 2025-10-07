@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello Friends...</h1>
 
-<img width="1700" height="460" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/408f9dc7-3dd9-4e27-8e02-250078e4d166" />
+<img width="1700" height="460" alt="github-header-banner (7)" src="https://github.com/user-attachments/assets/699fe5fa-e632-4c21-9e47-f33e0b6f36f1" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
