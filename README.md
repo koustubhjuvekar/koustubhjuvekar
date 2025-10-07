@@ -1,15 +1,12 @@
-<h1 align="center">👋 Hello Friends...</h1>
+<!-- <h1 align="center">👋 Hello Friends...</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=45&pause=1000&color=F75407&center=true&vCenter=true&width=1000&height=60&lines=I+am+AWS+Cloud+and+DevOps+Engineer!" alt="Typing SVG" />
   </a>
 </p>  
-
-
+-->
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/2350eeed-0c90-4a1e-8d96-ec0d7fda2e7c" />
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar1&label=Profile%20Visits&color=F75407&style=flat" alt="Profile Views" />
