@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ISC2%CC%|%AWS%|%DevOps(Docker%Kubernetes)%|%MySQL%|%Jenkins%|%Terraform-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
 </p>
 
 
