@@ -6,8 +6,17 @@
   </a>
 </p>  
 
-<img width="1700" height="460" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/c8ff3377-9d41-4fcb-9274-d9d83cf3004c" />
-<br><br>
+<div align="center" dir="auto">
+  <p align="center">
+    <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-KOUSTUBH18.SITE-FFFFFF?style=for-the-badge&labelColor=3b3b3b&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVOPS%20ENGINEER-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLOUD-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATION-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-yellow?style=for-the-badge" />
+</p>
 
 
 <p align="center">
