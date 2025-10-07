@@ -1,15 +1,18 @@
 <h1 align="center">👋 Hello Friends...</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=45&pause=1000&color=F75407&center=true&vCenter=true&width=1000&height=60&lines=I+am+AWS+Cloud+and+DevOps+Engineer!" alt="Typing SVG" />
-  </a>
-</p>  
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
 </p>
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=45&pause=1000&color=F75407&center=true&vCenter=true&width=1000&height=60&lines=I+am+AWS+Cloud+and+DevOps+Engineer!" alt="Typing SVG" />
+  </a>
+</p>  
 
 
 <p align="center">
