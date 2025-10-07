@@ -6,9 +6,6 @@
   </a>
 </p>  
 
-<div align="center" dir="auto">
-  <p align="center">
-    <a href="https://koustubh18.site" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-KOUSTUBH18.SITE-FFFFFF?style=for-the-badge&labelColor=3b3b3b&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEVOPS%20ENGINEER-black?style=for-the-badge" />
