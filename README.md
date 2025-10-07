@@ -8,11 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DEVOPS%20ENGINEER-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLOUD-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AUTOMATION-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISC2%CC%|%AWS%|%DevOps(Docker%Kubernetes)%|%MySQL%|%Jenkins%|%Terraform-black?style=for-the-badge" />
 </p>
 
 
