@@ -15,7 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat&size=35" alt="Profile Views" />
 </p>
 
-<p align="center"><font size="1000"><strong>My Projects</strong></font></p>
+<p align="center" style="font-size: 80px; font-weight: bold; line-height: 1.2; margin: 20px 0;">
+  My Projects
+</p>
+
 
 
 <br>
