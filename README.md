@@ -13,12 +13,12 @@
 
 <p align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=35&duration=2000&pause=10&color=1F62F7&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=👋+Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=28&duration=2000&pause=10&color=F75800FF&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=👋+Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
 </p>  
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=0000FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Project Section -->
