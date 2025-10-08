@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat" alt="Profile Views" />
 </p>
 
-<div style="height: 6px; background: linear-gradient(90deg, #ff416c, #ff4b2b); border-radius: 10px; margin: 25px 0;"></div>
+<div style="height: 3px; background: linear-gradient(to right, #00adb5, #393e46, #222831); border-radius: 2px; margin: 20px 0;"></div>
 
 
 <!-- Project Section -->
