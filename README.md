@@ -1,6 +1,6 @@
 
 <img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/2543ea68-34db-489b-95f1-4b05b79565d2" />
-<img width="1000" height="50" alt="Screenshot 2025-10-08 220435-Photoroom" src="https://github.com/user-attachments/assets/7c1dc5e7-49cc-4da7-908d-e2ea1f245e7a" />
+<img width="1000" height="150" alt="Screenshot 2025-10-08 220435-Photoroom" src="https://github.com/user-attachments/assets/7c1dc5e7-49cc-4da7-908d-e2ea1f245e7a" />
 
 
 ---
