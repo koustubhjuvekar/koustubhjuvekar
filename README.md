@@ -18,8 +18,7 @@
 <h2 align="center" style="border-bottom: 3px solid #00adb5; display: inline-block;"></h2>
 <br>
 <!-- Project Section -->
-<!--## 📑 `My Projects`-->
-<h2>My Projects</h2>
+## 📑 `My Projects`
 
 <table>
   <thead>
