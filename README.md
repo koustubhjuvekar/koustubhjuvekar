@@ -20,7 +20,12 @@
 
 <!-- Project Section -->
 <!--## 📑 `My Projects`-->
-# My Projects
+<h2 align="center" style="
+  color:#00adb5;
+  display:inline-block;
+  padding-bottom:5px;">
+  My Projects
+</h2>
 
 <table>
   <thead>
