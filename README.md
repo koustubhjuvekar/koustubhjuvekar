@@ -15,9 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">⚡ DevOps Engineer ⚡</h3>
-<hr style="width:50%; border: 1px solid #00adb5;">
-
+<h2 align="center" style="border-bottom: 3px solid #00adb5; display: inline-block;">Cloud & DevOps</h2>
 
 <!-- Project Section -->
 ## 📑 `My Projects`
