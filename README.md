@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F79202&width=435&lines=Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F79202&width=1000&lines=Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
 </p>  
 
 
