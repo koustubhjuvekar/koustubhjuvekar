@@ -18,6 +18,11 @@
 
 <h2 style="border-bottom:none;">My Projects</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-My%20Projects-000000?style=for-the-badge&logoColor=white" alt="My Projects"/>
+</p>
+
+
 <br>
 <table>
   <thead>
