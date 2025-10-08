@@ -4,15 +4,16 @@
 <img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/2543ea68-34db-489b-95f1-4b05b79565d2" />
 
 
-<h1 align="center">👋 Hello Friends...</h1>
-
-
 ---
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=45&pause=1000&color=F75407&center=true&vCenter=true&width=1000&height=60&lines=I+am+AWS+Cloud+and+DevOps+Engineer!" alt="Typing SVG" />
   </a>
+</p> --> 
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Delius&pause=1000&color=F79202&width=435&lines=Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
 </p>  
 
 
