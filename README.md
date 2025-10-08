@@ -20,10 +20,8 @@
 
 <!-- Project Section -->
 <!--## 📑 `My Projects`-->
-<h2 style="
-  color:#00adb5;">
-  My Projects
-</h2>
+<h2>My Projects</h2>
+
 <table>
   <thead>
     <tr>
