@@ -16,9 +16,8 @@
 </p>
 
 
-<h1>My Projects</h1>
+<h2 style="border-bottom:none;">My Projects</h2>
 
-<br>
 
 <table>
   <thead>
