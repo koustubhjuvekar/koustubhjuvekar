@@ -21,9 +21,7 @@
 <!-- Project Section -->
 <!--## 📑 `My Projects`-->
 <h2 style="
-  color:#00adb5;
-  display:inline-block;
-  padding-bottom:5px;">
+  color:#00adb5;">
   My Projects
 </h2>
 
