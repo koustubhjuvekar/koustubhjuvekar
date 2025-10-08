@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
 </p> -->
 <p align="center">
-  <a href="https://koustubh18.site/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/See_My_Resume-pdf-FF4800?style=flat&logo=AdobePDF&logoColor=white" alt="See My Resume" /></a><img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat&size=35" alt="Profile Views" />
+  <a href="https://koustubh18.site/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/See_My_Resume-pdf-FF4800?style=flat&logo=AdobePDF&logoColor=white" alt="See My Resume" /></a>
+ <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat&size=35" alt="Profile Views" />
 </p>
 
 ## `My Projects`
