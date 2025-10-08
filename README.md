@@ -19,7 +19,7 @@
 
 <!-- Project Section -->
 ## My Projects
-
+<h2 align="center">My Projects</h2>
 
 <table>
   <thead>
