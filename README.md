@@ -19,8 +19,9 @@
 <br>
 
 <!-- Project Section -->
-## 📑 `My Projects`
+<!--## 📑 `My Projects`-->
 # My Projects
+
 <table>
   <thead>
     <tr>
