@@ -4,7 +4,8 @@
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
 </p> -->
-<img width="2000" height="600" alt="Black and Blue Dark ProfessionalBusiness Services LinkedIn Article Cover Image (2)" src="https://github.com/user-attachments/assets/1029f86d-f166-499a-8aa7-5b036237a654" />
+<img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/2543ea68-34db-489b-95f1-4b05b79565d2" />
+
 
 
 ---
