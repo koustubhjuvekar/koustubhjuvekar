@@ -20,7 +20,7 @@
 
 <!-- Project Section -->
 <!--## 📑 `My Projects`-->
-<h2 align="center" style="
+<h2 style="
   color:#00adb5;
   display:inline-block;
   padding-bottom:5px;">
