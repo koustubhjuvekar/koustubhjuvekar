@@ -1,7 +1,4 @@
-
 <img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/2543ea68-34db-489b-95f1-4b05b79565d2" />
-<img width="1000" height="150" alt="Screenshot 2025-10-08 220435-Photoroom" src="https://github.com/user-attachments/assets/7c1dc5e7-49cc-4da7-908d-e2ea1f245e7a" />
-
 
 ---
 <p align="center">
@@ -12,11 +9,11 @@
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/ISC2%20|%20AWS%20|%20DevOps%20(Docker%2C%20Kubernetes)%20|%20MySQL%20|%20Jenkins%20|%20Terraform-black?style=for-the-badge" />
 </p> -->
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat" alt="Profile Views" />
 </p>
+
+---
 
 <!-- Project Section -->
 ## 📑 `My Projects`
