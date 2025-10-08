@@ -1,4 +1,5 @@
-<img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/2543ea68-34db-489b-95f1-4b05b79565d2" />
+
+<img width="2000" height="600" alt="image" src="https://github.com/user-attachments/assets/233da14b-246f-40f2-bc93-9790f582e088" />
 
 ---
 <p align="center">
