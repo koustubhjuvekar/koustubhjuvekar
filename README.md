@@ -15,10 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=FF4800&style=flat" alt="Profile Views" />
 </p>
 
-
-<!-- Project Section -->
+---
 ## My Projects
-<h2 align="center">My Projects</h2>
 
 <table>
   <thead>
