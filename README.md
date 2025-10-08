@@ -24,7 +24,6 @@
   color:#00adb5;">
   My Projects
 </h2>
-
 <table>
   <thead>
     <tr>
