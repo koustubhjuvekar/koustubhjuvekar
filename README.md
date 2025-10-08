@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar1&label=Profile%20Visits&color=F75407&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=koustubhjuvekar01&label=Profile%20Visits&color=0055F7FF&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Project Section -->
