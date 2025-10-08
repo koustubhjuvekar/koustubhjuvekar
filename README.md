@@ -13,7 +13,8 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=30&pause=1000&color=F7F7F7&background=272727&center=true&vCenter=true&width=1000&height=55&lines=Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&size=30&pause=1000&color=F7F7F7&background=000180&center=true&vCenter=true&width=1200&height=55&lines=Hello+Friends%2C+I+am+AWS+Cloud+and+DevOps+engineer...!" alt="Typing SVG" /></a>
 </p>  
 
 
