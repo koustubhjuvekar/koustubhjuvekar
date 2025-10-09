@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=react-dark&hide_border=true" alt="Contribution Graph" height="700" width="758" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=merko&hide_border=true%22%20alt=%22Contribution%20Graph%22%20height=%22700%22%20width=%22758%22" alt="Contribution Graph" height="700" width="758" />
 </p>
 
 <br>
