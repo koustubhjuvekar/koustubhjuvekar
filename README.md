@@ -86,7 +86,7 @@
 ## 🚀 `GitHub Statistics`  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" height="150" width="410"/> &emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" height="160" width="410"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" height="150" width="410"/> 
 </p>
     <!-- EXTRA STATISTIC BOX-->  
