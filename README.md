@@ -179,6 +179,6 @@
   </p>
 </div> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true&width=250" /> &emsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true&width=2500" /> &emsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" /> 
 </p>
