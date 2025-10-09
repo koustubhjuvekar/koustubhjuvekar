@@ -85,8 +85,17 @@
 
 ## 🚀 `GitHub Statistics`  
 
-<p align="center">
-     <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true%22%20height=%22150%22"/></a> <a href="https://github.com/koustubhjuvekar" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=koustubhjuvekar&theme=dark&hide_border=true%22%20height=%22150%22" /></a> 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
     <!-- EXTRA STATISTIC BOX-->  
     <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
 </p>
@@ -172,13 +181,3 @@
   </p>
 </div> -->
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark" />
-    </td>
-  </tr>
-</table>
