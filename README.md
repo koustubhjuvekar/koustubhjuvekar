@@ -95,10 +95,8 @@
     </td>
   </tr>
 </table>
-
     <!-- EXTRA STATISTIC BOX-->  
     <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=merko&hide_border=true%22%20alt=%22Contribution%20Graph%22%20height=%22700%22%20width=%22758%22" alt="Contribution Graph" height="700" width="758" />
