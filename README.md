@@ -85,16 +85,10 @@
 
 ## 🚀 `GitHub Statistics`  
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" height="150" width="410"/> &emsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" height="150" width="410"/> 
+</p>
     <!-- EXTRA STATISTIC BOX-->  
     <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
 
@@ -178,7 +172,4 @@
       <a href="mailto:koustubhjuvekar07@gmail.com"  rel="nofollow"><img width="290" height="33" alt="Email" src="https://github.com/user-attachments/assets/f6924fdb-ed54-487d-af64-979f49a6135d" /></a>
   </p>
 </div> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" width="410"/> &emsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" width="410"/> 
-</p>
+
