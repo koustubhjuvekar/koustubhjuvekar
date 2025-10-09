@@ -172,3 +172,13 @@
   </p>
 </div> -->
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=radical" />
+    </td>
+  </tr>
+</table>
