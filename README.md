@@ -180,5 +180,5 @@
 </div> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" width="410" height="500"/> &emsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" width="410" height="520"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" width="410" height="620"/> 
 </p>
