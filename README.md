@@ -72,8 +72,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/koustubhjuvekar/My-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=My-Projects&theme=radical&hide_border=true&border_radius=35" /></a>
-  <a href="https://github.com/koustubhjuvekar/Koustubh-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-AWS&theme=radical&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/koustubhjuvekar/My-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=My-Projects&theme=dark&hide_border=true&border_radius=35" /></a>
+  <a href="https://github.com/koustubhjuvekar/Koustubh-AWS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=koustubhjuvekar&repo=Koustubh-AWS&theme=dark&hide_border=true&border_radius=35" /></a>
 </p>    
 
 <p align="center"> 
