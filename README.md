@@ -36,7 +36,7 @@
       <td>Backup Vaults</td>
       <td>
           -  <a href="https://github.com/koustubhjuvekar/My-Projects/tree/2ceff918214426eb8b0c041912fd89524b694151/Project%20-%201"> Cross-Region Backup Replication - AWS</a> <br>
-          -  <a href="https://github.com/koustubhjuvekar/My-Projects/tree/b8f45b42d55a5b8eb630c9220362e48d3e9dd6fd/Project%20-%202/README.md"> Intelligent EBS Volume Optimization Using Lambda, CloudWatch, SNS, DynamoDB & Step Functions </a>
+          -  <a href="https://github.com/koustubhjuvekar/My-Projects/blob/57c8440ab1e870890124339e23092c12bfe3db1f/Project%20-%202/README.md"> Intelligent EBS Volume Optimization Using Lambda, CloudWatch, SNS, DynamoDB & Step Functions </a>
       </td>
     </tr>
     <tr>
