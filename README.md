@@ -86,8 +86,8 @@
 ## 🚀 `GitHub Statistics`  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" height="160" width="410"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" height="150" width="410"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=koustubhjuvekar&show_icons=true&theme=dark&hide_border=true" height="150" width="430"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=koustubhjuvekar&theme=dark&show_icons=true&hide_border=true" height="140" width="430"/> 
 </p>
     <!-- EXTRA STATISTIC BOX-->  
     <!--  <a href="https://github.com/koustubhjuvekar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koustubhjuvekar&layout=compact&theme=tokyonight&hide_border=true" height="150" /></a> -->
