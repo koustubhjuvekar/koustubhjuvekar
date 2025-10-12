@@ -68,7 +68,7 @@
 
 ## 📈 My Progress
 
-[<img width="500" height="500" alt="HackerRank_Icon-1000px" src="https://github.com/user-attachments/assets/32213ce4-7cdb-4748-81f2-23d745402f58" />](https://www.hackerrank.com/profile/koustubh18900)
+[<img width="85" height="85" alt="HackerRank_Icon-1000px" src="https://github.com/user-attachments/assets/32213ce4-7cdb-4748-81f2-23d745402f58" />](https://www.hackerrank.com/profile/koustubh18900)
 
 
 
