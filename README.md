@@ -144,8 +144,8 @@
 
 <!-- CONNECT ME SECTION -->
 <!--1. -->
-<!-- <a href="https://koustubh18.site" target="_blank">
-    <img src="https://img.shields.io/badge/www.koustubh18.site-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+<!-- <a href="https://koustubhjuvekar.in" target="_blank">
+    <img src="https://img.shields.io/badge/www.koustubhjuvekar.in-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>&emsp;
   <a href="https://linkedin.com/in/koustubhjuvekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
