@@ -66,7 +66,7 @@
 [<img width="85" height="85" alt="Google cyber" src="https://github.com/user-attachments/assets/fada8e8d-95e4-496e-9bc8-3a02a6b88080" />](https://drive.google.com/file/d/1-uBr0Rq6hMs-dZFA0Hf_ZHyP3UVBWoux/view?usp=sharing)
 
 
-## 📈 My Progress
+<!-- ## 📈 My Progress
 
 [<img width="85" height="85" alt="HackerRank_Icon-1000px" src="https://github.com/user-attachments/assets/32213ce4-7cdb-4748-81f2-23d745402f58" />](https://www.hackerrank.com/profile/koustubh18900)
 
@@ -101,7 +101,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=koustubhjuvekar&theme=merko&hide_border=true%22%20alt=%22Contribution%20Graph%22%20height=%22700%22%20width=%22758%22" alt="Contribution Graph" height="700" width="900" />
 </p>
 
-<br>
+<br> -->
 
 ## 🌐 `Connect With Me`  
 <br>
